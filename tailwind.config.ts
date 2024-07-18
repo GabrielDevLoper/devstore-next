@@ -10,6 +10,10 @@ const config: Config = {
     fontFamily: {
       sans: 'var(--font-inter)',
     },
+
+    gridTemplateRows: {
+      appp: 'min-content max-content',
+    },
   },
   plugins: [],
 }
