@@ -32,6 +32,7 @@ export function Header() {
         <Link href="/" className="flex items-center gap-2 hover:underline">
           <span className="text-sm">Account</span>
           <Image
+            alt=""
             src="https://github.com/gabrieldevloper.png"
             className="h-6 w-6 rounded-full"
             width={24}
